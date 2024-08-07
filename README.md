@@ -18,7 +18,15 @@ DjangoAuthMaster is a robust authentication project built using Django. It provi
    git clone https://github.com/ezraopande/DjangoAuthMaster.git
 
 
+
+## Contact
+
 For any questions or feedback, feel free to reach out to:
 
 - Email: ezraopande@gmail.com
 - Phone: +254796759850
+
+---
+
+*This project is maintained by [Ezra Opande](https://github.com/ezraopande).*
+
